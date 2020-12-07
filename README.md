@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome a mi página web
 
 You can use the [editor on GitHub](https://github.com/gatomontalvo/br-coli-experto/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Todo tiene logica
+2. Apoyo y humildad
 
 **Bold** and _Italic_ and `Code` text
 
